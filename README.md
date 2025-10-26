@@ -1,37 +1,57 @@
-
+<!-- 🧠 Typing Header -->
 <div align="center">
-  <h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=440&lines=I'm+Omar+Dorbaa;This+is..;..my+Github.." alt="Typing SVG" /></a>
-  </h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=440&lines=I'm+Omar+Dorbaa;This+is..;..my+Github.." alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="termina-gh.gif" alt="Terminal GH GIF" width="500"/>
 </div>
 
+<!-- 🚀 About Me -->
 <div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I am a software engineer from Syria, with three years of professional experience in software development.</p>
+  <h2>🚀 About Me</h2>
+  <p>
+    I'm a passionate <strong>Software Engineer</strong> from <strong>Syria</strong> 🇸🇾 with over <strong>3 years</strong> of experience in crafting digital solutions.<br/>
+    I thrive on solving complex problems and transforming ideas into impactful applications.
+  </p>
 </div>
 
+<!-- 🌐 Connect with Me -->
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
-  
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/dart-0A0A0A?style=for-the-badge&logo=dart" alt="YAML"/>
-  <img src="https://img.shields.io/badge/SQL-00ADD8?style=for-the-badge&logo=SQL&logoColor=white" alt="php"/>
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    Discover more about my work and interests via <a href="https://linktr.ee/yourusername" target="_blank"><strong>Linktree</strong></a> 🌳.<br/>
+    I'm open to collaborations, freelance opportunities, or just a friendly tech chat. Let's build something amazing together!
+  </p>
+</div>
 
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+<!-- 💻 Programming Languages -->
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <h2>💻 Programming Languages</h2>
+  <p>
+    My toolbox includes a versatile set of languages that help me turn ideas into reality:
+  </p>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  </div>
+</div>
+
+<!-- 🔧 Frameworks & Tools -->
+<div align="center">
+  <h2>🔧 Frameworks & Tools</h2>
+  <p>
+    I leverage modern frameworks and tools to build scalable, efficient, and beautiful applications:
+  </p>
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </div>
 </div>
