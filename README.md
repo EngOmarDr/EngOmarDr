@@ -20,7 +20,6 @@
 <div align="center">
   <h2>🌐 Connect with Me</h2>
   <p>
-    Discover more about my work and interests via <a href="https://linktr.ee/yourusername" target="_blank"><strong>Linktree</strong></a> 🌳.<br/>
     I'm open to collaborations, freelance opportunities, or just a friendly tech chat. Let's build something amazing together!
   </p>
 </div>
